@@ -1,10 +1,10 @@
 # fire-detection
 
-## Fire Modules
+## Fire Models
 
-The YOLOv8 modules used were trained by [@AlimTleuliyev](https://github.com/AlimTleuliyev) and are taken from the repository [https://github.com/AlimTleuliyev/wildfire-detection/tree/main](https://github.com/AlimTleuliyev/wildfire-detection/tree/main)
+The YOLOv8 models used were trained by [@AlimTleuliyev](https://github.com/AlimTleuliyev) and are taken from the repository [https://github.com/AlimTleuliyev/wildfire-detection/tree/main](https://github.com/AlimTleuliyev/wildfire-detection/tree/main)
 
-The modules are available in four sizes: fire_n, fire_s, fire_m, fire_l
+The models are available in four sizes: fire_n, fire_s, fire_m, fire_l
 
 ### Licence
 
@@ -13,7 +13,7 @@ The modules are available in four sizes: fire_n, fire_s, fire_m, fire_l
 
 ## Setup
 
-1. Download the YOLOv8 modules using the fire-modules.sh script
+1. Download the YOLOv8 models using the fire-modules.sh script
 
 ```bash
 ./fire-modules.sh [fire_n, fire_s, fire_m, fire_l]
