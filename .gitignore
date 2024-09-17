@@ -1,3 +1,4 @@
 fire-models/*.pt
 venv
 results
+__pycache__
